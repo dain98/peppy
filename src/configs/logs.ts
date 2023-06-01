@@ -22,24 +22,24 @@ export const logsConfig: LogsConfigType = {
     simpleCommand: {
         file: true,
         console: true,
-        channel: null
+        channel: "1113684666877231176"
     },
 
     newUser: {
         file: true,
         console: true,
-        channel: null
+        channel: "1113684666877231176"
     },
 
     guild: {
         file: true,
         console: true,
-        channel: null
+        channel: "1113684666877231176"
     },
     
     error: {
         file: true,
         console: true,
-        channel: null
+        channel: "1113684666877231176"
     }
 }
